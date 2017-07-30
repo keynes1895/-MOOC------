@@ -1,6 +1,6 @@
 ![description](http://i1.ciimg.com/1949/00b9b505a84b11e4.png)
 
-···C
+```C
 #include<stdio.h>
 #include<string.h>
 int main()
